@@ -11,7 +11,8 @@ Grupo de trabajo  **R6-L1-PG-B-V-JN-G158**
 ```
 
 ## Descripcion del proyecto
-![Actividad del bootcamp Talento Tech Caribe.](/esset/img/bannertech2.png)
+
+> ![Actividad del bootcamp Talento Tech Caribe.](/esset/img/talento tech mintic.png)
 Aqui va la descripción del proyecto
 
 ## Lista de Tareas
