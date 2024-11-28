@@ -21,7 +21,7 @@ Aqui va la descripción del proyecto
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-- [x] Definir el tema
+- [x] Definir el tema :+1:
 - [ ] Definir las Actividades
 - [ ] Asignar Responsables
 - [ ] listar tareas
