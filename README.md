@@ -4,10 +4,10 @@ Este es el proyecto del bootcamp **TALENTO TECH CARIBE**
 
 Grupo de trabajo  **R6-L1-PG-B-V-JN-G158**
 ```
-* Diego rendon  (líder)
-* Edgardo martinez
-* Karina alen
-* Dorian puerta
+* Diego rendon  (líder)  @drendonv
+* Edgardo martinez  @eemc78
+* Karina alen @
+* Dorian puerta @
 ```
 
 ## Descripcion del proyecto
@@ -16,6 +16,7 @@ Aqui va la descripción del proyecto
 
 ## Lista de Tareas
 >ejemplos
+
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
@@ -28,5 +29,22 @@ Aqui va la descripción del proyecto
   - [ ] Definir colores
   - [ ] Seleccionar las Imagenes
   - [ ] ...
+
+## observaciones Interesantes
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ## version 1.0
