@@ -19,23 +19,23 @@ Grupo de trabajo  **R6-L1-PG-B-V-JN-G158**
 ## Lista de Tareas
 >ejemplos
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] Documentación en el formato H2: PLANTILLA DE ESPECIFICACIÓN TÉCNICA DEL SITIO WEB
+- [ ] https://github.com/octo-org/drendonv/
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 - [x] Definir el tema :+1:
-- [ ] Definir las Actividades
-- [ ] Asignar Responsables
-- [ ] listar tareas
-  - [ ] Definir el esquema
-  - [ ] Definir colores
-  - [ ] Seleccionar las Imagenes
+- [x] Definir las Actividades
+- [x] Asignar Responsables
+- [x] listar tareas
+  - [x] Definir el esquema
+  - [x] Definir colores
+  - [x] Seleccionar las Imagenes
   - [ ] ...
 
 ## observaciones Interesantes
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Actualizacion eralizada.
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
