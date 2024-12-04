@@ -12,30 +12,30 @@ Grupo de trabajo  **R6-L1-PG-B-V-JN-G158**
 
 ## Descripcion del proyecto
 
-> ![Actividad del bootcamp Talento Tech Caribe.](/assets/img/logo_talento_tech.png)
+> ![Actividad del bootcamp Talento Tech Caribe.](/esset/img/logo_talento_tech.png)
 
 >Aqui va la descripción del proyecto
 
 ## Lista de Tareas
 >ejemplos
 
-- [x] Documentación en el formato H2: PLANTILLA DE ESPECIFICACIÓN TÉCNICA DEL SITIO WEB
-- [ ] https://github.com/octo-org/drendonv/
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 - [x] Definir el tema :+1:
-- [x] Definir las Actividades
-- [x] Asignar Responsables
-- [x] listar tareas
-  - [x] Definir el esquema
-  - [x] Definir colores
-  - [x] Seleccionar las Imagenes
+- [ ] Definir las Actividades
+- [ ] Asignar Responsables
+- [ ] listar tareas
+  - [ ] Definir el esquema
+  - [ ] Definir colores
+  - [ ] Seleccionar las Imagenes
   - [ ] ...
 
 ## observaciones Interesantes
 
 > [!NOTE]
-> Actualizacion eralizada.
+> Useful information that users should know, even when skimming content.
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
